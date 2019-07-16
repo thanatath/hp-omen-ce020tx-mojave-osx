@@ -6,6 +6,7 @@ Hp omen ce020tx Spec : https://support.hp.com/sg-en/document/c05638334
 
 ***i skip Clover Option in config.plist When system bootup**
 
+
 **WORK**
 
  - Battery   
@@ -15,10 +16,11 @@ Hp omen ce020tx Spec : https://support.hp.com/sg-en/document/c05638334
  - wifi&blutooth (bcm4352z)
  -  trackpad   
  -  Speaker   
+ -  HDMI (Type C Adaptor)   
 
- 
+
 
 **Don't work**
 
- - mirror (hdmi,mdisplay)   
+ - mirror (hdmi,mdisplay) *But Working in USB Type C Adaptor   
  -  Mic
