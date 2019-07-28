@@ -23,4 +23,4 @@ Hp omen ce020tx Spec : https://support.hp.com/sg-en/document/c05638334
 **Don't work**
 
  - mirror (hdmi,Mdisplay) *But Working in USB Type C Adaptor   
- -  Mic
+ -  Mic (Use VooDoo kext may work)
